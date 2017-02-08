@@ -128,5 +128,8 @@ class Trie {
 		 {
 		   	 root.display();
 		 }
-
+		
+		void helloWorld()
+		{
+		}
 }
