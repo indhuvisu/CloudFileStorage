@@ -131,5 +131,6 @@ class Trie {
 		
 		void helloWorld()
 		{
+			System.out.println();
 		}
 }
